@@ -1,0 +1,8 @@
+name: FirstPlugin
+main: io.github.leduyquang753.firstplugin.Main
+version: 0.0.2-SNAPSHOT
+
+commands:
+  play:
+    description: A quang_play provided command.
+    usage: /play

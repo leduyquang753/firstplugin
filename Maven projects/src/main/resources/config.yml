@@ -1,0 +1,16 @@
+#-------------------------------#
+#   quang_play's First Plugin   #
+#-------------------------------#
+#This is the data file of my first plugin.
+
+
+#Currently there is only one thing to change here...
+#This will be changed to TRUE if there is someone typed the command /play
+#which will give that player "The Ultimate Sworrrrrrrrd"
+#                             Sharpness 3
+#                             Knockback 5
+#                             Unbreaking 5
+#                             Looting 3
+#While this is TRUE the command will send the player a message that someone typed that.
+#Change this from TRUE to FALSE if you want this command to be able to be typed again.
+Command-typed: FALSE
